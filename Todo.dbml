@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="testDb" Class="TodoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=PERSONAL\SQLEXPRESS03;Initial Catalog=testDb;Integrated Security=True;Encrypt=False" SettingsObjectName="todoCli.Properties.Settings" SettingsPropertyName="testDbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Todos" Member="Todos">
+    <Type Name="Todo">
+      <Column Name="todoId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="task" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="status" Type="System.Byte" DbType="TinyInt" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

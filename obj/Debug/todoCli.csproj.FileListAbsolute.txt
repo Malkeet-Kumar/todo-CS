@@ -1,0 +1,7 @@
+C:\Users\Aniket\source\repos\todoCli\todoCli\bin\Debug\todoCli.exe.config
+C:\Users\Aniket\source\repos\todoCli\todoCli\bin\Debug\todoCli.exe
+C:\Users\Aniket\source\repos\todoCli\todoCli\bin\Debug\todoCli.pdb
+C:\Users\Aniket\source\repos\todoCli\todoCli\obj\Debug\todoCli.csproj.AssemblyReference.cache
+C:\Users\Aniket\source\repos\todoCli\todoCli\obj\Debug\todoCli.csproj.CoreCompileInputs.cache
+C:\Users\Aniket\source\repos\todoCli\todoCli\obj\Debug\todoCli.exe
+C:\Users\Aniket\source\repos\todoCli\todoCli\obj\Debug\todoCli.pdb
